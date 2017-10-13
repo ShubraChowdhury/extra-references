@@ -1,0 +1,16 @@
+1. https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+## SAVE THE ABOVE in C:/cwilkens/.keras/models  THIS IS REQUIRED AS MY COMPUTER FAILED TO DOWNLOAD THRU NOTEBOOK
+
+2. Download Instructurs aind2-cnn-master (zip file from Github)
+
+C:\Training\udacity\AI_NanoDegree\Term2\3.Convolutional Neural Networks Videos\code\aind2-cnn-master
+
+
+3. https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
+## I PLACED THE ABOVE IN C:\Training\udacity\AI_NanoDegree\Term2\3.Convolutional Neural Networks Videos\datasets
+
+4. https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
+
+## I PLACED THE ABOVE IN C:\Training\udacity\AI_NanoDegree\Term2\3.Convolutional Neural Networks Videos\datasets
+
